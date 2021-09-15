@@ -803,3 +803,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-21.01.28:037][  4]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.09.15-21.35.59:075][164]LogD3D11RHI: GetQueryData is taking a very long time (11.7 s) (00000000)
 [2021.09.15-21.35.59:075][164]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.09.15-21.37.15:672][644]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
